@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**svaki999/svaki999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer student who loves exploring new technologies and building exciting projects.
 
-Here are some ideas to get you started:
+## My Interests
+- **Programming:** I am deeply committed to improving my skills in C#.
+- **Game development:** I enjoy learning and exploring game development.
+- **Projects:** Check out my repositories for a collection of my recent works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📧 Email: patrickqhaahr@gmail.com
+- 🌐 LinkedIn: [in/pqh](https://www.linkedin.com/in/pqh/)
+
+Thanks for visiting my GitHub! I look forward to sharing more of my projects with you.
+
+![🕵️](https://visitor-badge.glitch.me/badge?page_id=svaki999)
