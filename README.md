@@ -10,7 +10,3 @@ Welcome to my GitHub profile! I'm a passionate software developer student who lo
 ## Contact
 - 📧 Email: patrickqhaahr@gmail.com
 - 🌐 LinkedIn: [in/pqh](https://www.linkedin.com/in/pqh/)
-
-Thanks for visiting my GitHub! I look forward to sharing more of my projects with you.
-
-![🕵️](https://visitor-badge.glitch.me/badge?page_id=svaki999)
