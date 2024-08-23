@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm a passionate software developer student who lo
 - **Projects:** Check out my repositories for a collection of my recent works.
 
 ## Contact
-- 📧 Email: patrickqhaahr@gmail.com
+- 📧 Email: patrick@haahr.me
 - 🌐 LinkedIn: [in/pqh](https://www.linkedin.com/in/pqh/)
