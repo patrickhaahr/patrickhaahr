@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I'm a passionate software developer student who lo
 ## Contact
 - 📧 Email: patrick@haahr.me
 - 🌐 LinkedIn: [in/pqh](https://www.linkedin.com/in/pqh/)
-- 🌐 Website: [haahr.me](http://haahr.me/)
+- 🌐 Website: [haahr.me](https://www.haahr.me/)
