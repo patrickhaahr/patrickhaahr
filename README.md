@@ -9,7 +9,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,postgres,tailwindcss,htmx,vercel,heroku,unity,git" alt="C#, .NET, JavaScript, TypeScript, React, PostgreSQL, TailwindCSS, HTMX, Vercel, Heroku, Unity, git">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,arch,neovim,supabase,tailwindcss,htmx,vercel,bun,git" alt="C#, .NET, TypeScript, React, Arch, neovim, Supabase, TailwindCSS, HTMX, Vercel, Bun, git">
   </a>
 </p>
 
